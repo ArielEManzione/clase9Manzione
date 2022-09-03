@@ -1,0 +1,16 @@
+input {
+    width: 35px;
+}
+
+h2{
+    color: red;
+}
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+th, td{
+    padding: 10px 20px;
+    border: 1px solid #000;
+}
